@@ -1,0 +1,8 @@
+.text {
+  color: white;
+  background-color: dodgerblue;
+  font-size: 36px;
+  padding: 2rem;
+  text-align: center;
+  font-family: monospace;
+}
