@@ -38,4 +38,4 @@ createRoot(document.getElementById("root")).render(
     <App />
   </div>
 );
-export default Card1;
+export default card1;
